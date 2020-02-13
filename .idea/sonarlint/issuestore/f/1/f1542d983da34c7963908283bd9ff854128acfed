@@ -1,0 +1,7 @@
+
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Äè¬°ıÿÿÿÿ8ÂòÕ².
+osquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(áü¼Üıÿÿÿÿ8®¹Î°.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Ğú–ıÿÿÿÿ8®¹Î°.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä°¥¤üÿÿÿÿ8öÓô¯.
+osquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(÷—æ½úÿÿÿÿ8®¹Î°.

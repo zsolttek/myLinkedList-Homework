@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ed9f1e3-8e70-4630-9303-34f94c5ced77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XO1ajLTx2hLBwJAjloW3GFTRAT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="training.softwire.Main" />
+      <module name="LinkedListImplementation" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedListTest.canRemoveNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LinkedListImplementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.softwire.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="training.softwire" />
+      <option name="MAIN_CLASS_NAME" value="training.softwire.MyLinkedListTest" />
+      <option name="METHOD_NAME" value="canRemoveNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MyLinkedListTest.canRemoveNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ed9f1e3-8e70-4630-9303-34f94c5ced77" name="Default Changelist" comment="" />
+      <created>1580902391032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580902391032</updated>
+      <workItem from="1580902395458" duration="16022000" />
+      <workItem from="1581586002421" duration="1801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1580910075360">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="653" y="203" key="#com.intellij.ide.util.MemberChooser/0.23.1680.952@0.23.1680.952" timestamp="1580910075360" />
+    <state width="1638" height="46" key="GridCell.Tab.0.bottom" timestamp="1581588620959">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="2518" height="458" key="GridCell.Tab.0.bottom/0.23.1680.952/-390.-1417.2560.1417@-390.-1417.2560.1417" timestamp="1581587181103" />
+    <state width="1638" height="46" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1581588620959" />
+    <state width="1638" height="46" key="GridCell.Tab.0.center" timestamp="1581588620958">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="2518" height="458" key="GridCell.Tab.0.center/0.23.1680.952/-390.-1417.2560.1417@-390.-1417.2560.1417" timestamp="1581587181102" />
+    <state width="1638" height="46" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1581588620958" />
+    <state width="1638" height="46" key="GridCell.Tab.0.left" timestamp="1581588620958">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="2518" height="458" key="GridCell.Tab.0.left/0.23.1680.952/-390.-1417.2560.1417@-390.-1417.2560.1417" timestamp="1581587181101" />
+    <state width="1638" height="46" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1581588620958" />
+    <state width="1638" height="46" key="GridCell.Tab.0.right" timestamp="1581588620959">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="2518" height="458" key="GridCell.Tab.0.right/0.23.1680.952/-390.-1417.2560.1417@-390.-1417.2560.1417" timestamp="1581587181102" />
+    <state width="1638" height="46" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1581588620959" />
+    <state x="602" y="-813" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581586832743">
+      <screen x="-390" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="602" y="-813" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.952/-390.-1417.2560.1417@-390.-1417.2560.1417" timestamp="1581586832743" />
+  </component>
+</project>
